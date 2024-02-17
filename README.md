@@ -1,7 +1,7 @@
 # Graphs-Adjacency-Matrix
 
-Adjancency Nodes file contains a C program for printing connections between nodes based on a given student code. The edgePrinter() function takes a long long integer representing the student code as input and prints the corresponding connections between nodes. The code utilizes recursive logic to traverse the digits of the student code and determine the connections between nodes. It provides a simple example of graph traversal and recursion in C.
+The "Adjacency Nodes" C program prints connections between nodes based on a given student code using recursion, demonstrating graph traversal in C.
 
-Adjancency Nodes Using Stack Operations file contains a C program implementing a stack data structure and a function to print connections between nodes based on a given student code. The code utilizes a stack to simulate recursion and traverse the digits of the student code, printing the corresponding connections between nodes. It serves as an example of stack implementation and graph traversal in C.
+The "Adjacency Nodes Using Stack Operations" C program prints node connections based on a student code using a stack data structure. It demonstrates stack implementation and graph traversal in C.
 
-Adjacency Matrix file contains a C program for creating and displaying an undirected graph based on user input. The program prompts the user to input the number of nodes and edges, followed by the edges themselves. It then constructs an adjacency matrix representing the connections between nodes and displays it. This code serves as a basic implementation of graph representation using an adjacency matrix in C.
+The "Adjacency Matrix" C program creates and displays an undirected graph based on user input. It prompts for the number of nodes and edges, constructs an adjacency matrix, and displays it. This demonstrates a basic graph representation using an adjacency matrix in C.
